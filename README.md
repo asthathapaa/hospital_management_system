@@ -36,6 +36,11 @@ A system application designed to streamline hospital operations, including patie
 ---
 
 ## Images
+![img1](./Images/img1.png)
+![img2](./Images/img2.png)
+![img3](./Images/img3.png)
+![img4](./Images/img4.png)
+![img5](./Images/img5.png)
 
 ## Conclusion
 This **Hospital Management System** demonstrates the power of the **MERN stack** (MongoDB, Express.js, React.js, Node.js) in building:  
@@ -51,6 +56,6 @@ This **Hospital Management System** demonstrates the power of the **MERN stack**
 
 # Lost Commit Recovery
 
-Critical backend commits were lost during development. Recovered via `git reflog` - includes appointment logic, auth APIs, and Cloudinary setup.
+Critical backend commits were lost during merging local and repo which not yet seen at commit. Recovered via `git reflog` - includes appointment logic, auth APIs, and Cloudinary setup.
 
 ![Git reflog output](./Images/img6.png)
