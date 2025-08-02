@@ -38,8 +38,6 @@ A system application designed to streamline hospital operations, including patie
 ## Images
 ![img1](./Images/img1.png)
 ![img2](./Images/img2.png)
-![img3](./Images/img3.png)
-![img4](./Images/img4.png)
 ![img5](./Images/img5.png)
 
 ## Conclusion
