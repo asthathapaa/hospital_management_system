@@ -47,4 +47,10 @@ This **Hospital Management System** demonstrates the power of the **MERN stack**
 - **AI Diagnostics** - Predictive analysis for patient health  
 - **Telemedicine** - Video consultations & remote care  
 - **Multi-language Support** - For global accessibility  
-- **IoT Integration** - Wearable health monitoring  
+- **IoT Integration** - Wearable health monitoring
+
+# Lost Commit Recovery
+
+Critical backend commits were lost during development. Recovered via `git reflog` - includes appointment logic, auth APIs, and Cloudinary setup.
+
+![Git reflog output](./Images/img6.png)
